@@ -55,7 +55,7 @@ function mod:WildSlam(args)
 end
 
 function mod:EarthCrush(args)
-	self:MessageOld(args.spellId, "yellow", "info")
+	self:MessageOld(args.spellId, "yellow", "long")
 end
 
 function mod:CrushingLeap(args)
