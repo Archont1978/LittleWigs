@@ -56,7 +56,7 @@ end
 
 function mod:EarthCrush(args)
 	self:Message(args.spellId, "yellow")
-	self:PlaySound(args.spellId, "warning")
+	self:PlaySound(args.spellId, "long")
 end
 
 function mod:CrushingLeap(args)
