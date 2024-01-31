@@ -56,7 +56,7 @@ function mod:WildSlam(args)
 end
 
 function mod:EarthCrush(args)
-	self:Message(args.spellId, "yellow")
+	self:Message(args.spellId, "cyan")
 	self:PlaySound(args.spellId, "alarm")
 end
 
