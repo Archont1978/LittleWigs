@@ -10,6 +10,7 @@ BigWigs:AddColors("Magmolatus", {
 BigWigs:AddColors("Slave Watcher Crushto", {
 	[150751] = {"blue","red"},
 	[150753] = "yellow",
+	[153679] = "cyan",
 	[150759] = "orange",
 })
 
