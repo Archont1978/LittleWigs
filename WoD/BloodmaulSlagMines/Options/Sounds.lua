@@ -8,9 +8,7 @@ BigWigs:AddSounds("Magmolatus", {
 
 BigWigs:AddSounds("Slave Watcher Crushto", {
 	[150751] = "alert",
-	[151447] = "alarm",
 	[153679] = "alarm"
-	[150776] = "info",
 	[150753] = "long",
 	[150759] = "warning",
 })
